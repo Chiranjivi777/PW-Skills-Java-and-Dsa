@@ -1,0 +1,33 @@
+1- What is Git ?
+Ans- Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+
+2-What do you understand by the term ‘Version control System?
+Ans-Version control systems are a category of software tools that helps in recording changes made to files by keeping a track of modifications done in the code. 
+
+3- What is GitHub ?
+Ans- At a high level, GitHub is a website and cloud-based service that helps developers store and manage their code, as well as track and control changes to their code.
+
+4- Mention some popular Git hosting services?
+Ans- Git hub
+   Bitbucket.
+   GitLab.
+   Perforce.
+   Beanstalk.
+   Amazon AWS CodeCommit.
+  
+5- Diffrent types of version control System?
+Ans- Distributed and centralized version control.
+
+6- What benifits come with useing GIT ?
+Ans- a)Revert the code files back to their previous state.
+     b) Recall and revert the entire project back to its previous state
+     c) Compare code changes over specific durations of time
+     d)Find who last modified a piece of code that might be causing an issue or a problem
+     e) Who introduced a particular issue and when
+  
+7-What is a Git repository?
+Ans- A Git repository is the .git/ folder inside a project. This repository tracks all changes made to files in your project,
+     building a history over time. Meaning, if you delete the .git/ folder, then you delete your project’s history.
+     
+8- How can you initialize a repository in Git?
+Ans- By useing git init command.
