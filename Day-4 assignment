@@ -1,0 +1,27 @@
+1-How to check if git is avilable in your system?
+Ans- By useing command git version.
+
+2-How to intialize a new Git repository?
+Ans- By useing a command git init.
+
+3-How to tell git about your name and email?
+Ans-By useing 
+    git config --global username "Chiranjivi777"
+    git config --global useremail "patnaik.chiranjivi@gmail.com"
+    
+ 4-How to add file to stageing area?
+ Ans- git add <file Name>
+ 
+ 5- How to remove a file from stageing area?
+ Ans- git rm --cached <filename>
+ 
+ 6-How to make commit?
+ Ans- git commit -m " Sutiable message" <filename>
+ 
+ 7- How to send your changes to remote repository?
+ Ans- git branch -m main
+      git remote add origin <link>
+      git push -u origin main
+ 8- What is the diff between clone and Pull?
+ Ans- git clone - To clone the entire project
+      git pull - To get any changes made in project.
