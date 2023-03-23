@@ -1,0 +1,31 @@
+1- What is statically type and dynamicaly type programming language?
+
+Ans- The language where specify the type of data type is complousry is called statically type ex-c, c++,java
+      where there is no need of specify the data type is called dynamically type ex-python, javascript
+      
+2- What is variable in java?
+
+Ans- A variable is the name of a memory allocated reserved area .It may be thought of as the name of a memory location.
+
+3-How to assign a value to the variable?
+
+Ans- type variableName = value; Where type is one of Java's types (such as int or String ), and variableName is the name of the variable (such as x or name). The equal sign is used to assign values to the variable.
+
+4- what is primitive data types in java?
+
+Ans- The primitive datatype include boolean,char,byte,short,int,long,float and double.
+
+5- What are identifiers in java?
+
+Ans- An identifier is a name given to a package,class,interface,method or variable. All identifiers must have different names.
+
+6- List the operators in java ?
+
+Ans- Arthmetic opertors/Relational operators/logical operators/Assignment operators/unary operators/unary operators/bitwise operators.
+
+7-Explain increment and decerment operator and give an example?
+
+Ans- The decrement (–) and increment (++) operators are special types of operators used in programming languages to decrement and increment the value of the given variable by 1 (one), respectively.
+There are 2 types
+prefix and postfix
+
