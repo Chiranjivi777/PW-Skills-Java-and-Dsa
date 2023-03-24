@@ -1,0 +1,49 @@
+1- What are the conditional operators in java?
+Ans- In Java, conditional operators check the condition and decides the desired result on the basis of both conditions.
+      There are three types of the conditional operator in Java:
+            Conditional AND
+            Conditional OR
+            Ternary Operator
+            
+2- What are the types of operators based on the number of operands?
+
+Ans- There are two types of mathematical operators: unary and binary. Unary operators perform an action with a single operand. Binary operators perform actions with two operands.
+
+3- What is the use of Switch case in java programming?
+
+Ans- The switch case in java is used to select one of many code blocks for execution. Break keyword: As java reaches a break keyword, the control breaks out of the switch block. The execution of code stops on encountering this keyword, and the case testing inside the block ends as the match is found.
+
+4- What are the priority levels of arithmetic operation in java?
+
+Ans-Operator precedence in java is a set of rules which tells the compiler the order in which the operators given in a particular expression are evaluated if there are multiple operators in a single expression.
+
+5- What are the conditional statements ans use of conditional statements in java?
+
+Ans-Java has the following conditional statements: Use if to specify a block of code to be executed, if a specified condition is true. Use else to specify a block of code to be executed, if the same condition is false. Use else if to specify a new condition to test, if the first condition is false.
+
+6- what is the Syntax of if else statement?
+
+Ans- if (condition) {
+    // block of code to be executed if the condition is true
+    } else {
+    // block of code to be executed if the condition is false
+    }
+    
+7- What are the 3 types of iterative statements in java?
+Ans- for loop/while loop/do while loop
+
+8- Write the difference between for loop and d0-while loop?
+Ans- Both for loop and while loop is used to execute the statements repeatedly while the program runs. The major difference between for loop and the while loop is that for loop is used when the number of iterations is known, whereas execution is done in the while loop until the statement in the program is proved wrong.
+
+9- Write a program to print numbers from 1 to 10 ?
+Ans-
+    public static void main(String[] args)
+    {     
+    int i;
+	  System.out.println ("The first 10 natural numbers are:\n");
+	  for (i=1;i<=10;i++)
+	  {      
+		System.out.println (i);
+	  }
+    System.out.println ("\n");
+   }
